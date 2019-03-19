@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Level 01/Inside Richard's House.unity
+  isLoaded: 1
+  isActive: 1
